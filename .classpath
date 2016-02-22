@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="google-maps-services-0.1.6.jar"/>
+	<classpathentry kind="lib" path="okhttp-2.4.0.jar"/>
+	<classpathentry kind="lib" path="okio-1.4.0.jar"/>
+	<classpathentry kind="lib" path="joda-time-2.7.jar"/>
+	<classpathentry kind="lib" path="gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="opencsv-2.4.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
